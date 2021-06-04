@@ -1,1 +1,1 @@
-# academy-java-api
+# academia-java-api
